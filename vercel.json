@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://dav.jianguoyun.com/dav/$1"
+    }
+  ]
+}
